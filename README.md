@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nskalyan
 - 👀 I’m interested in learning and applying
-- 🌱 I’m currently learning full stack development and ai 
+- 🌱 I’m currently learning full stack development and AI
 - 💞️ I’m looking to collaborate on ai projects and full stack projects
 - 📫 How to reach me ....
 
